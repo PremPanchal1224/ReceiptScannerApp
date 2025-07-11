@@ -4,7 +4,6 @@ An AI-powered Android app to scan and manage receipts. Upload images of receipts
 
 [![Made with Kotlin](https://img.shields.io/badge/Made%20with-Kotlin-blueviolet)](https://kotlinlang.org/)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack-Compose-blue)](https://developer.android.com/jetpack/compose)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
@@ -18,12 +17,6 @@ An AI-powered Android app to scan and manage receipts. Upload images of receipts
 - 📊 Monthly spending summary with bar charts
 - 💡 Smart monthly saving tips based on spending habits
 - 🔐 Biometric login (Fingerprint authentication)
-
----
-
-## 📱 Demo
-
-> _Coming soon_: Add screenshots or screen recording GIFs to show how your app works
 
 ---
 
